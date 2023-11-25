@@ -1,0 +1,5 @@
+dependencies {
+    implementation 'com.jakewharton:butterknife:10.2.0'
+    implementation 'com.jakewharton:butterknife-compiler:10.2.0'
+    implementation 'io.chaquopy:python:5.0.4'
+}
