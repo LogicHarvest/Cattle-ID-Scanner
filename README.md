@@ -4,7 +4,7 @@
 ####
 #### Install Python & Tesseract:
 #### Ensure Python is installed on your system.
-#### Download and install Tesseract OCR.
+#### Download and install Tesseract OCR. - [Tesseract OCR Installation Guide](https://tesseract-ocr.github.io/tessdoc/Installation.html)
 #### Link to the Tesseract executable in ```main.py```:
 ```pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'```
 ### Install Dependencies:
