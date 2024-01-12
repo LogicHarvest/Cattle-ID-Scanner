@@ -20,6 +20,8 @@
 
 #### Execute the ```main.py``` script to initiate the Cattle-ID-Scanner.
 
+![Image](https://github.com/LogicHarvest/Cattle-ID-Scanner/blob/main/cid-cov.jpg)
+
 # Required Dependencies:
 - Tesseract (OCR tool)
 - Python
