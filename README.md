@@ -18,12 +18,11 @@
 
 ### Run the Scanner:
 
-Execute the main.py script to initiate the Cattle-ID-Scanner.
+#### Execute the ```main.py``` script to initiate the Cattle-ID-Scanner.
 
-Required Dependencies:
-
-Tesseract (OCR tool)
-Python
-openpyxl (for working with Excel files)
-Pillow (Python Imaging Library)
-pytesseract==0.3.8 (Python wrapper for Tesseract OCR)
+# Required Dependencies:
+- Tesseract (OCR tool)
+- Python
+- openpyxl (for working with Excel files)
+- Pillow (Python Imaging Library)
+- pytesseract==0.3.8 (Python wrapper for Tesseract OCR)
