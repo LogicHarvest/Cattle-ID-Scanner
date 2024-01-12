@@ -6,17 +6,17 @@
 #### Ensure Python is installed on your system.
 #### Download and install Tesseract OCR.
 #### Link to the Tesseract executable in your Python script:
-"pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'"
+```pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'```
 ### Install Dependencies:
 #### Run the following command to install the necessary dependencies from the requirements.txt file:
 
-"pip install -r requirements.txt"
+```pip install -r requirements.txt```
 
-Prepare Images:
+### Prepare Images:
 
-Add images to the /images directory.
+#### Add images to the /images directory.
 
-Run the Scanner:
+### Run the Scanner:
 
 Execute the main.py script to initiate the Cattle-ID-Scanner.
 
