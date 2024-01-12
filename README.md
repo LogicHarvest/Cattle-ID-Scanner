@@ -1,6 +1,6 @@
 # CattlID
 
-### Cattle Wrangling with AI
+### Cattle Ear-Tag Scanner
 
 - Tesseract (OCR tool)
 - Python
