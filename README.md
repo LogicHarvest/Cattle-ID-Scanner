@@ -10,10 +10,10 @@
 - Install Dependencies:
 - Run the following command to install the necessary dependencies from the requirements.txt file:
 ```pip install -r requirements.txt```
-- ### Prepare Images
--- Add images to the ```/images``` directory.
-- Run the Scanner:
--- Execute the ```main.py``` script to initiate the Cattle-ID-Scanner.
+- #### Prepare Images
+- Add images to the ```/images``` directory.
+- #### Run the Scanner:
+- Execute the ```main.py``` script to initiate the Cattle-ID-Scanner.
 
 ![Image](https://github.com/LogicHarvest/Cattle-ID-Scanner/blob/main/cid-cov.jpg)
 
