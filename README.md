@@ -14,7 +14,7 @@
 
 ### Prepare Images:
 
-#### Add images to the /images directory.
+#### Add images to the ```/images``` directory.
 
 ### Run the Scanner:
 
