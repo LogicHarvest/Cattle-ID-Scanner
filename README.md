@@ -1,7 +1,7 @@
 # Cattle-ID-Scanner
 ## Cattle Ear-Tag Scanner
+### NOT RELIABLE FOR COMMERCIAL USE!
 ### To utilize the Cattle-ID-Scanner, follow these steps:
-### NOT PRODUCTION READY!
 ####
 - Install Python & Tesseract:
 - Download and install Tesseract OCR. - [Tesseract OCR Installation Guide](https://tesseract-ocr.github.io/tessdoc/Installation.html)
