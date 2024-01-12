@@ -1,4 +1,4 @@
-# CattlID
+# Cattle-ID-Scanner
 
 ### Cattle Ear-Tag Scanner
 
