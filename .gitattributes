@@ -2,3 +2,8 @@
 *.md linguist-generated=false
 *.md linguist-documentation=false
 *.md linguist-detectable=true
+
+*.txt linguist-vendored=false
+*.txt linguist-generated=false
+*.txt linguist-documentation=false
+*.txt linguist-detectable=true
